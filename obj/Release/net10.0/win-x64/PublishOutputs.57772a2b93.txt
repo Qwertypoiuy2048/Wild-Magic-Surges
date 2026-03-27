@@ -1,0 +1,2 @@
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Release\net10.0\win-x64\publish\Wild-Magic-Surges.pdb
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Release\net10.0\win-x64\publish\Wild-Magic-Surges.exe

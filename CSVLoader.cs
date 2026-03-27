@@ -1,4 +1,7 @@
 using System.Text.RegularExpressions;
+using System.Reflection;
+using System.IO;
+
 class CSVLoader
 {
     private string[] _lines = new string[0];
@@ -9,10 +12,36 @@ class CSVLoader
     private string[] _values = new string[0];
     private List<Surge> _surges = new List<Surge>();
 
+
+    private void CreateLines(string path)
+    {
+        if (File.Exists(path))
+        {
+            _lines = File.ReadAllLines(path);
+            Console.WriteLine("Using file at path: " + path);
+        }
+        else
+        {
+            Console.WriteLine("Using embedded file");
+
+            var names = Assembly.GetExecutingAssembly().GetManifestResourceNames();
+            foreach (var name in names)
+            {
+                Console.WriteLine(name);
+            }
+
+            var assembly = Assembly.GetExecutingAssembly();
+            using var stream = assembly.GetManifestResourceStream("Wild-Magic-Surges.tWMS.csv");
+            using var reader = new StreamReader(stream);
+            string file = reader.ReadToEnd();
+            _lines = file.Split('\n');
+        }
+    }
+
     public List<Surge> LoadCSV(string path)
     {
         // TODO: Read file and create Surge objects
-        _lines = File.ReadAllLines(path);
+        CreateLines(path);
         foreach (string line in _lines)
         {
 
