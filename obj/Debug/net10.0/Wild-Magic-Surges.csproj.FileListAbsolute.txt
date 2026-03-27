@@ -1,0 +1,14 @@
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Debug\net10.0\Wild-Magic-Surges.exe
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Debug\net10.0\Wild-Magic-Surges.deps.json
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Debug\net10.0\Wild-Magic-Surges.runtimeconfig.json
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Debug\net10.0\Wild-Magic-Surges.dll
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\bin\Debug\net10.0\Wild-Magic-Surges.pdb
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.AssemblyInfoInputs.cache
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.AssemblyInfo.cs
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.csproj.CoreCompileInputs.cache
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.dll
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\refint\Wild-Magic-Surges.dll
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.pdb
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\Wild-Magic-Surges.genruntimeconfig.cache
+C:\Users\ehcre\.vscode\projects\Wild-Magic-Surges\obj\Debug\net10.0\ref\Wild-Magic-Surges.dll

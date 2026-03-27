@@ -1,0 +1,461 @@
+V,1,For 1d6 minutes the triggering creatures outline shimmers in prismatic light. They shed dim light in a 10-foot radius.
+H,2,For 1d6 minutes all Stealth checks made by the triggering creature are at disadvantage. Even when silent faint echoes of their movements can be heard within 30 feet.
+V,1,For 1d6 hours the triggering creatures hair and clothing constantly lift as if underwater.
+B,2,For 1d6 rounds at the end of each of the triggering creatures turns an illusory duplicate lingers in their space until the start of their next turn. The first attack against them each round has a 25% chance to hit the duplicate instead.
+H,1,For 1d10 rounds the triggering creature speaks in reverse order. All creatures must succeed on a DC 12 Insight check to understand them.
+V,2,For 2 rounds at the start of each turn a random elemental burst (fire cold lightning acid) erupts in a 5-foot radius. Creatures in the area take 1d4 damage (Dex save against your casting DC for half).
+V,1,For 1d6 days one non-magical object on the triggering creature becomes weightless and drifts lazily within 1 foot of them.
+V,2,For 1d4 rounds at the start of each turn the triggering creature must succeed on a DC 12 Con save or expel a concussive sneeze pushing all creatures within 5 feet 5 feet away.
+B,2,For 1d6 rounds the first creature the triggering creature deals damage to each round must succeed on a DC 12 Wis save or have disadvantage on its next attack.
+V,1,For 1d6 hours harmless sparks crackle from the triggering creatures hands whenever they gesture occasionally forming tiny shapes that vanish instantly.
+B,1,For 1d4 rounds whenever the triggering creature moves at least 10 feet in a straight line they bounce an extra 5 feet in that direction.
+H,2,For 1d8 rounds whenever the triggering creature takes damage a booming echo repeats the sound. The next attack against them before the end of their next turn has advantage.
+V,1,For 1d6 days faint glowing lines trace beneath the triggering creatures skin in shifting colors.
+H,1,For 1d6 minutes all creatures within 10 feet of the triggering creature smell faint ozone and burning parchment. Whenever the triggering creature casts a spell each creature within 5 feet takes force damage equal to the spells level.
+B,1,For 1d4 rounds the triggering creature falls 10 feet slower than normal and takes no falling damage from falls under 20 feet.
+V,1,For 1d6 hours faint applause echoes whenever the triggering creature succeeds on an attack roll saving throw or ability check.
+B,2,For 1d8 rounds once during the duration when the triggering creature casts a cantrip it repeats at half effect at the end of their turn.
+V,1,For 1d6 hours the triggering creature tastes copper constantly. Food and drink are unpleasant but edible.
+B,2,For 1d4 rounds the triggering creature can move through creatures as difficult terrain but cannot end their turn in another creatures space.
+V,2,A wave of force expands 10 feet from the triggering creature. All creatures in range must succeed on a DC (10 + Spell level) Str save or be pushed 10 feet.
+V,1,The triggering creatures shadow moves half a second out of sync permanently.
+V,1,For 1d6 hours reflective surfaces within 30 feet show creatures performing slightly delayed or altered actions.
+B,1,One ear of the triggering creature becomes detachable. They can hear from its location if it is within 30 feet. If lost it reappears attached after a long rest.
+B,2,For 1d6 minutes the ground trembles within 10 feet of the triggering creature. That area is difficult terrain for all creatures except the triggering creature.
+V,2,For 1d8 rounds the triggering creature has advantage on Charisma checks but disadvantage on Wisdom saving throws.
+B,2,The triggering creature sheds a thin outer layer harmlessly and gains 10 temporary HP.
+V,3,For 1d4 rounds at the start of each of the triggering creatures turns gravity briefly inverts in a 10-foot radius centered on them. All creatures in the area rise 10 feet unless they succeed on a DC 14 Dex save.
+V,2,For 3 rounds whenever any creature within 10 feet of the triggering creature takes damage droplets of a random element spray outward. All adjacent creatures take 1d6 damage of that type (Dex save against your casting DC for half).
+H,3,For 1d8 rounds the first time each creature within 30 feet draws or makes an attack with a weapon on their turn the weapon becomes a harmless slug until the start of their next turn.
+V,2,For 1d6 minutes one limb of the triggering creature stretches elastically. Their reach increases by 5 feet but attack rolls with that limb suffer -1.
+V,3,For 1d4 rounds the ground within 15 feet of the triggering creature behaves like soft clay. Creatures entering or starting their turn there must succeed on a DC 15 Str save or be restrained until the end of their next turn.
+V,2,For 1d10 rounds the triggering creatures weight halves. Jump distance doubles but they have disadvantage on Strength checks and saves.
+B,1,For 1d6 hours clothing worn by creatures within 10 feet subtly writhes. Once during this duration the clothing may impose disadvantage on one grapple attempt against its wearer.
+V,3,For 3 rounds 1d4 random creatures within 30 feet become invisible.
+B,3,For 3 rounds 1d4 creatures of the triggering creatures choice within 30 feet become invisible.
+H,3,For 3 rounds 1d4 random enemies within 30 feet become invisible.
+V,2,For 1d8 rounds whenever a creature within 15 feet speaks a harmless frog pops out of their mouth and lands nearby.
+B,3,The triggering creature gains a semi-real duplicate in its space. The first attack that would hit them instead destroys the duplicate.
+V,1,For 1d6 hours faint musical chimes sound when the triggering creature or any creature within 5 feet moves.
+B,3,For 1d4 rounds the triggering creature gains resistance to bludgeoning piercing and slashing damage but their speed is halved.
+H,2,For 4 rounds small stones within 20 feet animate briefly. The first creature to move more than 10 feet each round takes 1d6 bludgeoning damage.
+B,3,A CR 4 aberration appears in an unoccupied space within 30 feet. It acts immediately after the triggering creature in initiative and remains for 3d6 rounds or until reduced to 0 HP.(Friendly)
+H,3,A CR 4 aberration appears in an unoccupied space within 30 feet. It acts immediately after the triggering creature in initiative and remains for 3d6 rounds or until reduced to 0 HP.(Hostile)
+V,2,For 1d6 rounds whenever the triggering creature casts a spell that targets only one creature it also targets a second random creature within range at half effect.
+V,2,When the triggering spell resolves lightning arcs to one random creature within 20 feet of the primary target for 2d6 lightning damage.
+V,2,Three CR 1 creatures appear in unoccupied spaces within 30 feet. They remain for 1d6 minutes.
+B,3,At the start of the triggering creatures next turn the triggering spell repeats at its original level without consuming a spell slot.
+H,3,For 1d4 rounds whenever the triggering creature casts a spell its point of origin shifts 10 feet in a random direction.
+V,3,For 1d6 rounds the triggering creatures spells deal a random damage type instead of their normal type.
+H,2,The triggering creature takes force damage equal to twice the spells level.
+V,2,Nine Tiny creatures (CR 0 or 1/8 each) appear in a 15-foot radius around the triggering creature. They remain for 1d6 minutes.
+B,3,If the triggering spell has an area its radius increases by 10 feet.
+H,3,For 1d4 rounds the triggering creature must succeed on a DC 14 Con save to cast a spell. On a failure the spell slot is expended with no effect.
+V,3,A CR 5 elemental appears within 30 feet. It remains for 3d6 rounds or until reduced to 0 HP.
+V,2,For 1d4 rounds at the end of each of the triggering creatures turns they teleport 10 feet in a random direction.
+B,2,The triggering creature regains one expended spell slot of 2nd level or lower.
+V,3,Immediately roll on this table again and apply the new result. Ignore further Twin Surge results.
+V,3,All creatures within 15 feet rise 20 feet and fall immediately.
+V,3,For 1d4 rounds when the triggering creature casts a spell targets are randomly reassigned among valid creatures in range.
+B,3,For 1d6 rounds the triggering creature gains resistance to damage from spells.
+B,2,For 1d6 rounds the triggering creature gains +2 AC against ranged attacks.
+H,3,A bolt of raw magic strikes the triggering creature for 4d8 force damage.
+V,4,A CR 5 magical beast appears within 30 feet and immediately attacks the nearest creature. It remains for 3d6 rounds.
+H,1,The triggering creature permanently smells faintly of ozone. Detectable within 5 ft.
+H,1,For 1d6 hours faint whispers echo around the triggering creature when they cast a spell.
+V,2,For 4 rounds small flames flicker in a 15-ft radius; creatures moving more than 10 ft take 1d4 fire damage.
+V,3,Four CR 1 creatures appear in unoccupied spaces within 30 ft for 1d6 minutes.
+V,2,For 1d8 rounds creatures within 20 ft must succeed on a Wis save against your casting DC to willingly move closer to the triggering creature.
+V,1,For 1d6 minutes colors within 30 ft are over saturated and slightly distorted.
+V,3,For 3 rounds lightning arcs between two random creatures within 30 ft each round (3d6 lightning damage Dex save for half).
+V,2,For 1d10 rounds all creatures within 15 ft grow or shrink 10% in size.
+V,3,A CR 5 monstrosity appears within 30 ft for 3d6 rounds.
+B,1,For 1d6 hours the triggering creature hears faint applause after dealing damage.
+H,2,All treasure carried by the caster becomes sentient sprouts tiny arms and legs and tries to escape from them.
+B,2,For 1d8 rounds the triggering creature gains advantage on Concentration checks.
+V,2,For 1d6 rounds rain falls in a 20-ft radius; the area becomes lightly obscured.
+V,3,For 1d4 rounds all movement speeds within 20 ft are doubled.
+V,1,The triggering creatures eyes permanently reflect faint starlight in darkness.
+H,2,For 1d8 rounds the triggering creature sheds dim light in a 10-ft radius and cannot benefit from being unseen.
+V,2,Three CR 2 creatures appear within 30 ft for 1d6 minutes.
+V,3,For 1d4 rounds a 15-ft radius becomes crackling static; ranged attacks have disadvantage.
+V,3,For 1d10 rounds each creature within 30 ft must roll a d6 at the start of its turn; on a 1 it uses its reaction immediately on a random valid trigger.
+H,2,Arcane Reflux: The triggering creature loses 1d4 Sorcery Points.
+V,3,Spell Slot Fracture: The highest-level expended spell slot the triggering creature has becomes restored but they take force damage equal to 5 x that spell level.
+B,3,Metamagic Surge: For 1d8 rounds the triggering creature may apply one Metamagic option they know to spells without spending Sorcery Points (once per round).
+H,3,Arcane Static: For 1d4 rounds when the triggering creature casts a spell roll a d6. On a 1-2 the spell fails but the slot is expended.
+B,3,Sorcerous Overflow: The triggering creature gains 2d6 Sorcery Points. Excess above their maximum become temporary Sorcery Points and vanish after 10 rounds.
+B,3,Chaotic Conversion: All Sorcery Points become spell slots of equivalent total level value. After 3d6 rounds unused converted slots vanish.
+B,3,Wild Reservoir: For 1d6 rounds whenever the triggering creature casts a spell of 1st level or higher roll a d6. On a 6 they regain 1 Sorcery Point.
+B,3,Spell Detonation Delay: The next spell cast by the triggering creature is delayed by 1 round then resolves at double its normal area (if any).
+H,4,Arcane Predator Mark: The next time the triggering creature regains Sorcery Points a CR 5 creature appears for 3d6 rounds within 30 ft and attacks the nearest creature.
+B,2,Metamagic Echo: For 1d4 rounds when the triggering creature applies Metamagic roll a d6. On a 5-6 it does not cost Sorcery Points.
+B,3,Spell Mirror Skin: The next spell that targets the triggering creature rebounds to its caster.
+V,2,Exhausted Wellspring: The triggering creature loses all Sorcery Points. They regain 1 at the end of each of their turns until they regain all their Sorcery Points.
+B,3,Arcane Implosion: The triggering creature takes 6d10 force damage. They regain Sorcery Points equal to half the damage taken. You may regain Sorcery Points past your maximum but they vanish after 1 minute.
+B,2,Unstable Focus: For 1d10 rounds the triggering creature may reroll one damage die per spell.
+B,3,Volatile Recovery: The triggering creature regains 1 expended spell slot of each level they can cast (maximum one per level).
+V,3,Arcane Cascade: For 1d4 rounds whenever the triggering creature casts a spell of 2nd level or higher immediately roll on Table 1.
+B,3,Sorcerous Distortion: For 1d8 rounds creatures within 20 ft have disadvantage on saving throws against the triggering creatures spells.
+B,3,Unbound Channel: For 3d6 rounds the triggering creature ignores the Sorcery Point cost to convert spell slots into Sorcery Points.
+B,4,Total Reclamation: The triggering creature restores all Sorcery Points and all expended spell slots.
+H,4,Twin Infernal Geometry: The triggering creatures two highest available spell slots are immediately expended to cast fireball twice on opposite sides of the creature.
+V,1,1d6 harmless spectral chickens appear for 1d6 minutes.
+V,2,Three CR 1/8 creatures appear within 30 ft for 1d6 minutes.
+V,1,A single flumph appears hovers silently for 3d6 rounds then vanishes.
+V,2,Two CR 1 creatures appear and are mildly confused.
+V,1,A spectral butler manifests for 1d6 minutes silently tidying objects within 15 ft.
+V,2,1d4 CR 1/4 beasts appear in unoccupied spaces within 30 ft.
+V,1,A swarm of glowing moths fills a 10-ft radius for 1d6 minutes (lightly obscured).
+V,2,Three CR 1 creatures appear stacked vertically in one space and immediately fall prone.
+V,1,A single animated chair appears for 1d6 minutes and attempts to follow the nearest creature.
+V,2,1d8 CR 0 creatures appear in a 15-ft radius and scatter immediately.
+B,1,Caster is immune to being intoxicated by alcohol for the next 3d10 days
+V,2,Four CR 1/8 creatures appear and move in perfect formation.
+V,1,A single harmless elemental sprite appears and mimics gestures.
+V,3,Two CR 2 creatures appear within 30 ft for 3d6 rounds.
+V,1,A rain of rubber ducks falls in a 10-ft radius (difficult terrain for 1 round).
+V,2,Three CR 1 beasts appear and immediately flee in random directions.
+V,1,A friendly ghost dog appears for 1d6 minutes.
+V,2,1d4 CR 1 creatures appear but refuse to move unless attacked.
+H,1,A small mimic appears disguised as a mundane object.
+V,2,Three CR 1/2 creatures appear in a triangle formation within 30 ft for 1d6 minutes.
+V,2,For 1d8 rounds enemies within 20 ft hear false tactical advice.
+V,4,For 1d4 rounds all healing within 30 ft deals damage instead and vice versa.
+V,3,For 1d8 rounds creatures within 20 ft must attack the nearest creature on a Wis save against your casting DC.
+B,3,For 1d8 rounds creatures attempting to attack you must succeed on a Wis save against your casting DC.
+B,2,For 1d8 rounds frightened creatures instead gain advantage on attack rolls.
+V,3,For 1d4 rounds difficult terrain becomes normal terrain and vice versa.
+V,2,Creatures within 30 ft perceive all allies as faintly hostile silhouettes.
+V,3,For 2 rounds shadows lash out; any creature who moves takes 3d6 necrotic damage.
+V,3,For 2 rounds standing still causes 2d6 psychic damage.
+V,2,For 1d8 rounds creatures must announce their intended action aloud before acting.
+V,3,For 1d6 rounds natural 19s on saving throws become critical failures.
+H,2,The caster becomes unable to walk in a straight line as if permanently intoxicated.
+V,2,For 1d8 rounds all creatures are convinced someone is directly behind them.
+V,3,For 1d4 rounds advantage and disadvantage swap.
+V,2,For 1d8 rounds creatures who take damage gain +2 to next attack.
+V,3,For the rest of this combat initiative order reverses each round.
+V,3,For 1d4 rounds creatures cannot distinguish friend from foe unless adjacent.
+V,2,For 1d8 rounds creatures must succeed on a Wis save to use reactions.
+V,2,For 1d10 rounds creatures hear a countdown that may or may not be real.
+V,3,For 1d6 rounds ranged attacks have disadvantage melee attacks have advantage.
+V,3,For 1d4 rounds creatures who fail a save are convinced they succeeded.
+V,1,The triggering creatures skin permanently shifts to a random color.
+V,2,For 4 rounds sparks leap from the triggering creature. The first creature to touch them each round takes 1d6 lightning damage.
+V,1,For 1d6 hours the triggering creatures voice echoes dramatically.
+B,3,The triggering creature gains 3d10 temporary HP.
+B,1,Nearest squirrel gains sentience an Intelligence score of 24 knows and can speak Deep Speech and becomes obsessed with the caster. It believes the caster was prophesied and constantly offers questionable strategic advice. Easily distracted by shiny objects and nuts.
+V,1,The triggering creature permanently grows or shrinks by 1 inch.
+B,2,For 1d10 rounds the triggering creature floats 6 inches above the ground and ignores difficult terrain.
+V,3,A CR 4 creature appears within 30 ft for 3d6 rounds.
+V,1,For 1d6 days the triggering creature smells faintly of sulfur.
+V,2,For 1d10 rounds colors invert within 15 ft (lightly obscured area).
+V,3,A thunderclap erupts in a 15-ft radius centered on the triggering creature (5d8 thunder damage Con save for half).
+V,3,A thunderclap erupts in a 15-ft radius centered on a point of the the triggering creatures choice (5d8 thunder damage Con save for half).
+B,2,For 1d8 rounds the triggering creature gains resistance to force damage.
+V,1,The triggering creature permanently gains faint glowing eyes in darkness.
+V,2,For 1d10 rounds creatures within 30 ft hear faint mocking laughter on missed attacks ability checks and saves.
+V,3,For 1d4 rounds all movement speeds are halved.
+B,3,For 1d4 rounds movement speeds of all hostile creatures are halved.
+H,3,For 1d4 rounds movement speeds of all friendly creatures are halved.
+H,1,For 1d6 hours the triggering creature leaves illusory footprints.
+B,3,The triggering creature regains 6d10 HP.
+V,2,For 1d8 rounds small stones orbit the triggering creature granting half cover vs ranged attacks.
+H,4,The triggering creature becomes the center of a 20-ft radius fire explosion (10d6 fire damage Dex save for half).
+B,4,The triggering creature regains all HP and gains resistance to all damage until the end of their next turn.
+B,3,Two CR 1 creatures appear within 30 ft under the triggering creatures control for 3d6 rounds.
+V,2,Two CR 1 creatures appear within 30 ft and immediately attack the nearest creature.
+B,2,For 1d8 rounds whenever a summoned creature hits with an attack the summoned creature may move 10 ft without provoking opportunity attacks.
+V,2,For 1d8 rounds whenever a summoned creature hits a target the target must succeed on a Con save against your casting DC or fall prone.
+B,4,Three CR 3 creatures appear within 30 ft under the triggering creatures control for 3d6 rounds.
+V,3,A CR 5 creature appears within 30 ft and acts independently for 3d6 rounds.
+B,2,For 1d10 rounds when a summoned creature drops to 0 HP it explodes harmlessly in radiant energy; allies within 10 ft gain 5 temporary HP.
+V,2,For 10 rounds when a summoned creature drops to 0 HP it bursts in force; creatures within 10 ft take 2d6 damage.
+B,3,A CR 4 creature appears within 30 ft under the triggering creatures control for 3d6 rounds.
+V,3,Three CR 2 creatures appear in random unoccupied spaces within 30 ft and immediately take the Dodge action.
+B,2,For 1d4 rounds the triggering creature may swap places with a summoned creature within 30 ft as a bonus action.
+V,2,For 1d4 rounds summoned creatures and the triggering creature swap spaces at the start of each round (randomly determined).
+B,4,A CR 6 creature appears within 30 ft under the triggering creatures control for 3d6 rounds.
+H,4,A CR 6 creature appears within 30 ft and immediately targets the triggering creature.
+B,2,For 1d8 rounds summoned creatures gain advantage on their first attack each round.
+H,2,For 1d8 rounds summoned creatures must use their movement each turn to move toward the triggering creature if able.
+B,3,For 1d4 rounds when the triggering creature takes damage a CR 1 creature appears in an adjacent space under their control (max of Wis modifier).
+H,3,For 1d4 rounds when the triggering creature casts a spell a CR 1 creature appears within 10 ft and attacks the nearest creature.
+B,2,Four CR 1/2 creatures appear within 30 ft under the triggering creatures control for 3d6 rounds.
+V,2,Four CR 1/2 creatures appear within 30 ft and scatter randomly for 3d6 rounds.
+H,2,For 1d10 rounds the largest hostile creature within 60 ft gains +2 AC.
+B,2,For 1d10 rounds all allies within 30 ft gain +2 to saving throws.
+H,2,For 1d10 rounds the largest hostile creature deals +1 d6 damage on its first hit each round.
+B,2,For 1d10 rounds allies regain 5 HP at the start of their turns.
+H,3,For 1d4 rounds the largest hostile creature gains resistance to all damage.
+B,3,For 1d4 rounds all allies gain resistance to bludgeoning piercing and slashing damage.
+H,4,Two CR 4 creatures appear adjacent to the largest hostile creature.
+B,4,Two CR 4 creatures appear within 30 ft under party control.
+H,3,For 1d4 rounds allies have disadvantage on attack rolls against the largest hostile creature.
+B,3,For 1d4 rounds allies have advantage on attack rolls against the largest hostile creature.
+H,3,For 4 rounds the largest hostile creature emits a 10-ft damaging aura (2d6 elemental damage Dex save against its highest stat half).
+B,3,For 4 rounds allies deal +1d6 damage on weapon attacks.
+H,4,A CR 7 creature appears and immediately assists the largest hostile creature.
+B,4,A CR 7 creature appears under party control for 3d6 rounds.
+H,3,For 1d4 rounds the largest hostile creatures movement speed doubles and it ignores difficult terrain.
+B,3,For 1d4 rounds all allies movement speeds double.
+H,4,For 1d10 rounds whenever the largest hostile creature takes damage a CR 1 creature appears adjacent to it (max of its CR).
+B,3,For 1d10 rounds whenever an ally drops to 0 HP they instead drop to 1 HP once.
+H,4,For 3d6 rounds the largest hostile creature gains resistance to all damage advantage on attack rolls and an additional attack on its turn.
+B,4,For 3d6 rounds all allies gain resistance to all damage advantage on attack rolls and regain 10 HP at the start of their turns.
+V,3,The triggering creature takes 6d10 lightning damage but regains 6d10 HP.
+V,3,For 1d4 rounds spells cast within 30 ft are maximized but caster takes unreducable force damage equal to spell level x 5.
+V,3,A CR 8 creature appears within 30 ft for 3d6 rounds.
+B,3,The triggering creature regains all HP but gains vulnerability to all damage for 1d4 rounds.
+V,3,After 2 rounds a 20-ft radius force explosion erupts centered on the triggering creature (8d8 force damage Dex save for half).
+V,3,For 1d10 rounds creatures within 30 ft must succeed on Wis saves to willingly move.
+H,3,For 1d10 rounds Friendly creatures within 30 ft must succeed on Wis saves to willingly move.
+B,3,For 1d10 rounds hostile creatures within 30 ft must succeed on Wis saves to willingly move.
+H,3,For 1d4 rounds whenever a spell is cast roll a d6. On 1-3 it targets a random valid creature.
+B,4,The triggering creature gains resistance to all damage for 3d6 rounds.
+V,3,After 1d4 rounds 1d4 CR 4 creatures appear in random unoccupied spaces within 30 ft.
+V,3,For 1d6 rounds gravity triples within 20 ft.
+H,4,The triggering creature takes maximum damage from the next spell or attack that hits them within 3d6 rounds.
+B,4,The triggering creature regains all HP and gains immunity to all damage for 1d4 rounds.
+V,3,A CR 7 fiend appears within 30 ft for 3d6 rounds.
+V,3,For 1d4 rounds creatures within 20 ft randomly swap positions at the end of each round.
+V,3,The triggering creature regains all expended spell slots but suffers one level of exhaustion.
+V,3,For 1d6 rounds fire damage within 30 ft is doubled.
+V,3,Roll twice on this table.
+B,3,The triggering creature may pick a result from this table that they have experienced before.
+V,3,For 1d10 rounds creatures within 30 ft are frightened of the triggering creature.
+H,3,For 1d10 rounds friendly creatures within 30 ft are frightened of the triggering creature.
+B,3,For 1d10 rounds hostile creatures within 30 ft are frightened of the triggering creature.
+H,3,For 1d4 rounds spells cost one level higher slot.
+V,3,After 3 rounds lightning strikes the triggering creature for 10d6 damage.
+V,1,Caster gains the ability to walk on water but only for the first six steps.
+V,3,The caster lays a clutch of eggs during the next extended rest. What hatches follow the caster around and treats them as their mother.
+V,1,The caster can now communicate conversationally with ducks.
+H,1,The party is plagued by voices in their head. The voice sounds exactly like each PCs mother and criticizes and chastises everything they do for 1d4 weeks. Things such as “Oh why would you kill that poor goblin? What did he do to you?” and “You need to wipe your feet before going into an inn! Where are your manners?”
+V,1,Whenever the caster is hurt a blast of confetti shoots out of their ears accompanied by the sound of a party noise maker
+H,1,The next creature to come in physical contact with the caster becomes instantly covered in black sticky tar.
+H,3,The next item the caster touches becomes stuck to their hand as though held there by Sovereign Glue (see Dungeon Masters Guide). However it may be removed by Dispel Magic or Remove Curse.
+B,1,The caster gains eat-vision. By staring at food or drink they can focus their energy and eat/drink it from up to 100 feet away. While using this ability their eyes glow white and there is a faint smell of burning flesh around them.
+V,1,Whenever the caster enters a building the amount of light available dims to darkness and then a spotlight of bright light appears around the caster (accompanied with trumpet sounds). Then the light returns to normal immediately afterward.
+V,2,Each spell cast by the caster now also summons a duck under the DMs control.
+B,1,The nearest allied PC to the caster can speak to animals permanently but only knows how to say the phrases “Hello” “Goodbye” “Where is the bathroom?” and “Nice weather we are having.” They can understand the animals responses perfectly however.
+V,1,The casters eyes become hollow and filled with water. A small gold fish can be seen swimming in each. This does not negatively affect their vision in anyway besides the fact that sometimes a bubble or two from the fish my float in front of their eyes
+V,1,Whenever the caster sneezes they discharge from their nose/mouth a random harmless elemental effect.
+B,2,The nearest allied PC without a fly speed gains a fly speed of 5 but only when they flap their arms.
+V,3,Vines sprout from the ground and restrain any creatures in a 30 foot sphere centered on the caster. They can be cut away with two attack actions.
+B,2,A random shoe within 20 feet of the caster gains the properties of a bag of holding.
+V,1,For the rest of the current encounter or the next encounter the PCs face the encounter is accompanied by a disembodied voice giving a play-by-play.
+B,3,Each step the caster takes causes a small burst of magical energy from beneath their feet that cycles through the following types: fire cold acid and lightning. This energy allows them to walk on air.
+H,1,A small parrot appears and begins following the party around and annoyingly copying phrases they say. The parrot has a mocking tone and if killed resurrects 3d8 hours later and resumes its copying.
+H,3,The next spell the caster casts has the opposite effect. The way the spell manifests is up to the DM. For example the spell Fireball may instead be a ball of ice and do cold damage or perhaps instead the spell heals the creatures in burst instead of damaging.
+V,1,A goblin appears and claims to be the slave of the caster. The goblin will not under any circumstance leave the casters side.
+B,3,A random item in the partys inventory gains the same properties of a magic item from the Dungeon Masters Guide (Players choice which item DM chooses enchantment).
+B,2,A Dwarven blacksmith controlled by the DM appears in a space within 5 feet of you then disappears 3d6 rounds later. He has a bag of basic weapons and armour for sale
+B,3,For the next 2d10 rounds your allies within 30 feet of you gain 5 temporary hit points that reset back to 5 at the start of each of their own turns.
+B,3,For the next 2d10 rounds all your spells with a casting time of 1 action have a casting time of 1 bonus action.
+B,3,For the next 2d10 rounds all your spells with a casting time of 1 action allow you to move an extra 15 feet when cast. Your movement does not provoke an attack of opportunity.
+B,3,You and a creature of your choice within 60 feet of you teleport simultaneously swapping positions with each other. You may then move an additional 30 feet.
+V,2,You cast magic missile with one missile hitting every creature including yourself within 60 feet.
+V,3,Flip a coin. On heads your Intelligence becomes 20 and on tails it becomes 2. After 1 hour it reverts to normal.
+V,2,You cast find steed which lasts 1 hour. The mount uses a pony stat block but resembles you running on all fours.
+H,2,1d4 hostile zombies controlled by the DM appear in unoccupied space within 60 feet of you. They vanish after 1-minute.
+B,4,You surge with power and immediately gain the benefits of a long rest.
+V,3,You immediately swap positions with the furthest member of your adventuring party.
+B,2,You gain resistance to poison damage and immunity to the poisoned condition for the next hour.
+H,2,The weapon you have currently equipped turns into a hostile constrictor snake. After being slain it reverts to normal.
+V,2,All creatures within 60 feet immediately regain 1d20 hit points.
+V,3,You gain darkvision of 120 ft and sensitivity to light for 24 hours.
+V,3,During your next long rest you lay an egg. Whatever hatches (DM Choice) looks to you as its parent.
+V,2,Flip a coin. On heads your size category increases by 1 and on tails it decreases by 1. After 10 minutes it reverts to normal.
+B,3,You cast Magic Missile as a 6th-level spell.
+B,3,You cast Wall of Sand centered on yourself.
+B,3,You disappear in a pillar of flame and teleport up to 60 feet to an unoccupied space of your choice that you can see reappearing in a similar pillar.
+B,3,For the next 2d10 rounds you can teleport up to 20 feet as a bonus action on each of your turns. When you appear in the new location you create a burst of thunderous sound which can be heard 100 feet away.
+B,2,You regain your lowest-level expended spell slot.
+B,3,The next time you are damaged by necrotic damage you are instead healed that much health.
+V,2,You deal 1d10 necrotic to all creatures within in 30 of you and gain that much health.
+B,4,Choose one immortality trait (no aging / food / drink / air).
+B,2,A ghoul under your control rises from the earth. It ceases to be controlled by you in 1d4 hours.
+V,2,For the next hour you can comprehend all languages but can only speak Abyssal.
+V,1,Every non-magical door secret door portcullis etc. including those locked or barred within 60 feet of the caster swing open.
+B,4,Spell operates at highest possible level. The slot used dont change.
+V,2,Caster and all creatures within 30 feet of triggering creature gain vulnerability to piercing damage for the next 2d8 rounds.
+V,2,Spell also affects a random creature within 60 feet of caster.
+H,3,Spell effect affects caster rather than target.
+V,2,Caster and target exchange places.
+B,3,Spell operates as usual but slot is not spent and material components are not consumed.
+V,3,Spell takes physical form as free-willed elemental and cannot be controlled by caster; it remains for the duration of the spell and its touch causes the spell effect (bonus to hit equal to casters).
+V,2,Caster and target use their Dash action to run for 1d4 rounds directly away from each other as far as possible.
+V,3,Magic Missile cast as a x[1-9]-level spell. Player chooses x and it is cast twice: one on the party and one on Casters choice
+H,2,Spells area of effect is centered on the caster rather than the target.
+H,2,The spells target is chosen randomly from valid targets within range.
+V,1,The spells damage type is randomly determined by rolling a d8 and consulting the following list: 1. Acid 2. Cold 3. Fire 4. Force 5. Lightning 6. Necrotic 7. Poison 8. Psychic.
+V,2,The spells damage type is randomly determined by rolling a d12 and consulting the following list: 1. Acid 2. Cold 3. Fire 4. Force 5. Lightning 6. Necrotic 7. Poison 8. Psychic 9. Radiant 10. Thunder 11. Bludgeoning 12. Healing.
+B,4,Caster can take an additional turn immediately.
+V,3,Spell effect has 60 foot radius.
+V,2,Heal on every creature within 10 feet of caster.
+V,3,Invisibility on each creature within 30 feet of caster.
+H,2,Slow centered on caster.
+B,3,Spell has minimum duration of 1 turn (e.g.: a fireball creates a ball of flame that remains for 1 turn a lightning bolt bounces and continues possibly rebounding for 1 turn etc.).
+H,3,Caster and target become deeply depressed. They curl up into a ball and start moaning and mumbling about how their life is senseless and sad and dont react until attacked. Targets with Intelligence 3 or less cannot be affected.
+V,2,Wall of Fire encircles caster.
+V,3,For 1d4 rounds all creatures within 30 feet of caster are under the effect of the confusion spell.
+H,3,For 2 rounds a 20-ft radius around the triggering creature becomes searing heat. Creatures that start their turn there take 3d6 fire damage.
+V,3,A CR 6 creature appears within 30 ft for 1 minute.
+V,3,For 1d4 rounds creatures within 30 ft must succeed on a Wis save against your casting DC to take actions other than Dodge.
+H,3,The triggering creature takes 8d10 force damage.
+V,3,For 4 rounds lightning strikes a random creature within 30 ft at the end of each round (4d8 lightning).
+H,3,For 1d4 rounds the ground within 20 ft cracks; creatures that move more than 10 ft fall prone unless they succeed on a Dex save against your casting DC.
+V,3,For 1d4 rounds creatures have disadvantage on all saving throws.
+H,3,For 1d4 rounds friendly creatures have disadvantage on all saving throws.
+B,3,For 1d4 rounds hostile creatures have disadvantage on all saving throws.
+V,3,For 1d4 rounds creatures have advantage on all saving throws.
+B,3,For 1d4 rounds friendly creatures have advantage on all saving throws.
+H,3,For 1d4 rounds hostile creatures have advantage on all saving throws.
+H,3,A 15-ft radius necrotic burst erupts centered on the triggering creature (6d8 necrotic Con save for half).
+V,3,For 1d8 rounds whenever a creature casts a spell it takes force damage equal to the spells level x 5.
+H,3,For 1d4 rounds when a creature drops to 0 HP within 30 ft a CR 1 creature appears adjacent to it.
+V,3,For 1d10 rounds creatures within 30 ft are frightened of the nearest creature at the start of their turn (Wis save against your casting DC negates each round).
+V,3,For 1d4 rounds fire damage within 30 ft is doubled.
+V,3,For 1d4 rounds lightning damage within 30 ft is doubled.
+V,3,For 1d4 rounds thunder damage within 30 ft is doubled.
+V,3,For 1d4 rounds cold damage within 30 ft is doubled.
+V,3,For 1d4 rounds Bludgeoning damage within 30 ft is doubled.
+V,3,For 1d4 rounds Piercing damage within 30 ft is doubled.
+V,3,For 1d4 rounds Slashing damage within 30 ft is doubled.
+V,3,For 1d4 rounds Acid damage within 30 ft is doubled.
+V,3,For 1d4 rounds Force damage within 30 ft is doubled.
+V,3,For 1d4 rounds Necrotic damage within 30 ft is doubled.
+V,3,For 1d4 rounds Poison damage within 30 ft is doubled.
+V,3,For 1d4 rounds Psychic damage within 30 ft is doubled.
+V,3,For 1d4 rounds Radiant damage within 30 ft is doubled.
+H,4,A CR 7 creature appears within 30 ft and immediately attacks the triggering creature.
+V,3,For 1d6 rounds all critical hits deal maximum damage.
+H,3,For 1d4 rounds creatures within 30 ft cannot regain HP.
+H,4,The triggering creature becomes the center of a 20-ft radius implosion (12d10 force damage Con save for half).
+V,4,A CR 9 creature appears within 30 ft for 3d6 rounds.
+V,4,For 2 rounds all creatures within 30 ft take 4d10 elemental damage (random type) at the start of their turns.
+V,4,All creatures within 30 ft at 0 HP immediately stand with half HP. All creatures above 0 HP take 10d10 necrotic damage.
+V,4,All creatures within 30 ft are petrified for 1d4 rounds.
+V,4,All creatures currently in combat have their current HP set to 1. They are then healed for 10d10 HP.
+V,3,All creatures currently in combat have their current HP averaged together and set to that number.
+B,3,All friendly creatures currently in combat have their current HP averaged together and set to that number.
+H,3,All hostile creatures currently in combat have their current HP averaged together and set to that number.
+H,3,All creatures who died within the last minute are resurrected with 1 HP and immediately attack the nearest creature.
+B,3,All creatures who died within the last minute are resurrected with 1 HP + casters CHA modifier and are under the control of the caster for 3d6 rounds.
+V,3,All creatures within 30 ft are teleported to a random location within 200 feet of the caster.
+B,3,1d6 creatures of the casters choice become enraged for 1d6 rounds. The target is randomly determined each round and all creatures have that target.
+H,2,After 2 rounds a 20-ft radius around the triggering creature becomes a storm of razor-sharp ice. Creatures that start their turn there take 3d6 cold damage.
+V,2,Until the end of the casters next turn they are invisible and have resistance to all damage but they cannot attack or cast spells.
+H,1,For 1d6 hours the triggering creature sheds dim light in a 10-ft radius and cannot benefit from being unseen
+H,1,For 1d6 hours faint whispering distracts the triggering creature; disadvantage on their first Perception check each round
+H,1,For 1d8 rounds the triggering creatures speed is reduced by 10 ft
+H,1,For 1d6 hours the triggering creatures hands tremble slightly; disadvantage on their first attack roll each combat
+H,1,For 1d8 rounds the triggering creature takes 1 force damage whenever they cast a spell or make an attack
+H,1,For 1d6 hours the triggering creatures shadow moves unpredictably imposing disadvantage on Stealth checks.
+H,2,For 1d4 rounds the ground within 15 ft becomes slick; creatures must succeed on a Dex save when moving or fall prone
+H,1,For 1d10 rounds the triggering creature has disadvantage on saving throws against fear effects
+H,2,Two CR 1 creatures appear within 30 ft and immediately attack the nearest creature.
+H,2,The triggering creature takes 5d8 force damage.
+V,2,For 1d4 rounds creatures within 20 ft have disadvantage on opportunity attacks.
+V,2,For 1d6 rounds creatures within 15 ft take 1d6 fire damage at the start of their turns.
+H,2,For 1d8 rounds teleportation and forced movement fail within 30 ft.
+H,3,A CR 5 creature appears within 30 ft and immediately attacks the triggering creature.
+H,3,For 1d4 rounds creatures within 30 ft cannot regain HP.
+H,3,For 5 rounds lightning strikes the triggering creature at the end of each of their turns (3d8 lightning Dex save half).
+V,3,For 1d4 rounds creatures within 30 ft must succeed on a Wis save at the start of their turn or use their action to attack the nearest creature.
+H,3,A 20-ft radius burst of necrotic energy erupts centered on the triggering creature (6d10 necrotic Con save half).
+H,3,Three CR 2 creatures appear within 30 ft and act independently for 3d6 rounds.
+V,3,For 1d4 rounds all creatures within 30 ft have disadvantage on attack rolls.
+V,2,For 1d4 rounds the triggering creatures speed fluctuates wildly. At the start of each of their turns roll 1 d4: 1-2: speed halved 3-4: speed doubled
+H,1,For 1d6 rounds the triggering creature cannot take reactions.
+H,1,For 1d4 rounds the triggering creature must use their movement before taking an action on their turn.
+H,1,For 1d8 rounds the triggering creature subtracts 1 d4 from their initiative count each round.
+H,1,For 1d6 hours the triggering creature always moves 5 ft farther than intended when they move.
+H,1,For 1d4 rounds all creatures must choose their action before moving.
+H,2,For 1d8 rounds whenever any creature takes the Attack action they can only make one attack regardless of features.
+V,2,For 1d4 rounds at the start of each creatures turn within 30 ft roll 1 d6. On a 1-2 that creature loses its reaction until its next turn.
+V,2,For 1d8 rounds difficult terrain fills a 20-ft radius centered on the triggering creature.
+H,3,The triggering creature immediately ends its turn.
+H,2,For 1d6 rounds when the triggering creature casts a spell or takes the Attack action roll 1 d4. On a 1 the action fails but the resource is expended.
+V,2,For 1d4 rounds creatures within 30 ft must succeed on a Wis save at the start of their turn or move 10 ft in a random direction before acting.
+H,2,For 1d8 rounds the triggering creature cannot take bonus actions.
+V,3,For 1d4 rounds all creatures roll initiative again at the start of each round.
+H,3,For 1d10 rounds the triggering creature can take either an action or a bonus action on their turn not both.
+V,3,For 1d10 rounds teleportation redirect creatures 1d10 ft in a random direction instead of their intended location.
+H,3,For 1d8 rounds whenever the triggering creature takes damage they must succeed on a Con save or lose their reaction and bonus action until their next turn.
+V,3,For 1d4 rounds at initiative count 10 each round every creature within 30 ft must succeed on a Dex save or fall prone.
+H,2,The next time the triggering creature rolls a natural 20 on an attack roll they must reroll and use the second result.
+V,3,For 1d4 rounds creatures within 30 ft that reduce a creature to 0 HP must succeed on a Wis save or lose their next action.
+B,1,For 1d4 rounds the triggering creatures speed is doubled.
+H,2,For 1d6 rounds the triggering creature cannot take reactions.
+V,1,For 1d4 rounds at the start of the triggering creatures turn roll 1 d4: 1-2: gain a bonus action 3-4: lose your bonus action
+B,1,For 1d8 rounds the triggering creature may stand from prone without spending movement.
+H,1,For 1d4 rounds whenever the triggering creature moves more than 15 ft they must succeed on a Dex save or fall prone.
+V,1,For 1d8 rounds creatures within 20 ft add or subtract 1 d4 from initiative at the start of each round (roll individually).
+B,2,For 1d4 rounds the triggering creature may take Dash as a bonus action.
+V,2,For 1d4 rounds whenever a creature within 30 ft takes the Attack action roll 1 d6: 1-2: one fewer attack 3-4: one additional attack 5-6: two additional attacks.
+B,2,For 1d10 rounds allies within 20 ft gain +10 ft speed.
+V,2,For 1d4 rounds at initiative count 10 each round all creatures must succeed on a Con save or have their speed reduced to 0 until the end of their turn.
+V,2,For 1d8 rounds when a creature within 30 ft reduces another creature to 0 HP it immediately gains or loses its reaction (50/50).
+H,3,The triggering creature immediately ends its turn and cannot take reactions until the start of its next turn.
+B,3,For 1d4 rounds the triggering creature gains one additional action each turn that can be used only to Attack (one weapon attack) Dash or Disengage.
+H,3,For 1d10 rounds the triggering creature must succeed on a Wis save at the start of their turn or take no action that turn.
+V,3,For 1d4 rounds all creatures within 30 ft act twice on their turn on even-numbered rounds and cannot act at all on odd-numbered rounds.
+B,3,For 1d10 rounds allies within 30 ft ignore difficult terrain and may move through hostile creatures spaces (cannot end there).
+H,3,For 1d4 rounds whenever a creature within 30 ft takes damage it must succeed on a Con save or lose its next bonus action and reaction.
+V,3,For 1d8 rounds whenever a creature rolls a natural 20 on an attack it immediately gains a bonus action; on a natural 1 it loses its reaction.
+B,4,All creatures friendly to the triggering creature immediately takes one additional full turn after this one
+V,3,For 1d4 rounds at the start of each round all creatures within 30 ft must succeed on a Wis save or lose their next action.
+V,3,For 1d8 rounds whenever a creature moves more than 15 ft they take 1 damage per 5 ft moved.
+H,3,For 1d4 rounds whenever a creature within 30 ft takes the Attack action it must succeed on a Con save or lose its next reaction.
+H,3,Arcane Burnout: The triggering creature cannot regain Sorcery Points for 3d6 rounds.
+H,3,Spell Collapse: The triggering creature loses their highest available spell slot.
+V,3,Force Hole: Air starts to gather at your location after 1 d4 rounds a 20-ft radius force explosion erupts centered on the triggering creature 2X move towards Str 5X num of rounds to not be dragged in (8d8 force damage Dex save for half).
+H,2,For 1d4 rounds whenever a spell is cast roll a d6. On 1-3 it targets a random valid creature.
+V,4,The creature and the highest-CR enemy within 100 feet swap character sheets (or stat blocks) for 3d6 rounds. Personalities remain but bodies and abilities are exchanged.
+V,4,Time stops for everyone except the triggering creature and one random enemy for 1d6 rounds. During this time they can only interact with each other.
+H,2,The triggering creature becomes ethereal for 1d4 rounds. During this time they can move through objects and creatures but cannot interact with the material world in any way.
+B,2,The triggering creature becomes invisible for 1d4 rounds.
+B,4,The creature and all allies within 60 feet gain the benefits of a Long Rest instantly.
+B,1,The creature instantly learns the direction of north and the exact time of day.
+B,1,The creatures eyes glow faintly; they gain Darkvision out to 30 feet for 1 hour.
+B,1,The creature gains the ability to cast Mending as a bonus action for the next hour.
+B,2,The creature gains the ability to speak the language of the next creature it touches that speaks a language it doesnt know.
+B,1,The creatures skin hardens slightly; they gain 1d4 temporary hit points.
+B,1,The creature is cured of any non-magical itch rash or minor ache it currently has.
+B,1,The creature feels a surge of confidence and gains Advantage on its next Charisma check.
+B,1,The creatures clothes instantly become clean and mended as if by Prestigiditation.
+B,1,The creatures hair grows 1 inch and becomes incredibly soft and well-groomed.
+B,1,For the next 3d6 rounds the creature can perfectly mimic the voice of any person they have heard speak.
+B,1,The creatures touch can snuff out or light a non-magical candle torch or small campfire at will for 1 hour.
+B,1,The creature feels refreshed as if they just finished a short nap though they gain no mechanical benefits of a rest.
+B,2,For the next 2d10 rounds the creature can use a bonus action to take the Disengage action.
+B,2,For the next 2d10 rounds the creature can use a bonus action to take the Hide action.
+B,2,For the next 2d10 rounds the creature can use a bonus action to take the Dash action.
+B,2,For the next 2d10 rounds the creature can use a bonus action to take the Help action.
+B,2,For the next 2d10 rounds the creature can use a bonus action to take the Search action.
+B,2,The creature can see invisible creatures and objects within 60 feet for the next 2d10 rounds.
+B,2,The creature can cast Misty Step once within the next 3d6 rounds without expending a spell slot.
+B,2,The creature gains 4d10 temporary hit points that it may distribute as it desires.
+B,2,The creature adds a d4 to the next saving throw they make.
+B,2,The creature can cast the Light cantrip for the next hour.
+B,1,Every party member within 60 feet suddenly feels a cool refreshing breeze; they all gain 1 temporary hit point.
+B,1,The creature can speak with animals for the next hour.
+B,1,All party members within 60 feet find their gear instantly cleaned of all dirt blood and grime.
+B,2,Shimmering dust falls on the party; everyone within 30 feet gains a +5 foot increase to their walking speed for 3d6 rounds.
+B,2,A wave of clarity washes over the group; every party member within 60 feet can immediately use their reaction to move up to half their speed without provoking opportunity attacks.
+B,2,Everyone in the party within 60 feet gains a Flash of Insight; they gain heroic inspiration.
+B,2,Magical adrenaline hits the group; everyone within 30 feet gains 1d6 temporary hit points.
+B,2,A burst of restorative energy hits the group; any party member with an effect that can be ended by a saving throw can immediately repeat their saving throw against that effect.
+H,3,Every light source held by the party dims significantly providing only Dim Light in a 5-foot radius for the next 4d10 rounds.
+H,1,The creatures shoes fuse to the ground. Their speed is 0 until they use an action to break free.
+H,1,The creature can only speak in rhymes for the next hour. If they fail to rhyme they take 1 psychic damage.
+H,1,The creature grows a long bushy beard made of purple feathers. It falls out after 24 hours.
+H,1,For the next 3d6 rounds the creature forgets the names of all its allies referring to them only as Hey You or Stranger.
+H,3,For 1d4 rounds all Hostiles movement speeds double.
+H,3,For the next 2d6 rounds all hostile creatures have an increased opportunity attack range of 5 ft.
+H,1,All allies loose 1d6 temporary HP.
+H,1,The creatures hair falls out.
+H,2,For 1d4 rounds 1d4 CR 1d4 creatures appear at initiative count 1d4 then disappear after 1d4 rounds.
