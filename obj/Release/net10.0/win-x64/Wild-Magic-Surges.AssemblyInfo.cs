@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wild-Magic-Surges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c61196638273d02c1f1217eefc0806446138d43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+959291e5b3543a89291bb1bc98f1527ec8ede523")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wild-Magic-Surges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wild-Magic-Surges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
