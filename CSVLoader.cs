@@ -22,13 +22,7 @@ class CSVLoader
         }
         else
         {
-            Console.WriteLine("Using embedded file");
-
-            var names = Assembly.GetExecutingAssembly().GetManifestResourceNames();
-            foreach (var name in names)
-            {
-                Console.WriteLine(name);
-            }
+            Console.WriteLine("No file found at path: " + path + "\nUsing embedded file: Wild-Magic-Surges.tWMS.csv\n");
 
             var assembly = Assembly.GetExecutingAssembly();
             using var stream = assembly.GetManifestResourceStream("Wild-Magic-Surges.tWMS.csv");
