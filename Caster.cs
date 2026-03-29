@@ -3,19 +3,19 @@
 // =========================
 class Caster
 {
-    private int triggerLevel;
-    private DiceRoller dice;
+    private int _triggerLevel;
+    private DiceRoller _dice;
 
     public Caster()
     {
-        triggerLevel = 0;
-        dice = new DiceRoller();
+        _triggerLevel = 0;
+        _dice = new DiceRoller();
     }
 
     public bool CastSpell(int level)
     {
-        int roll = dice.RollD20();
-        int threshold = level + triggerLevel;
+        int roll = _dice.RollD20();
+        int threshold = level + _triggerLevel;
 
         Console.WriteLine($"\nRoll: {roll}, Threshold: {threshold}");
 
@@ -26,12 +26,12 @@ class Caster
         }
         Console.WriteLine("No surge triggered");
 
-        triggerLevel += level;
+        _triggerLevel += level;
         return false;
     }
 
     public void Reset()
     {
-        triggerLevel = 0;
+        _triggerLevel = 0;
     }
 }

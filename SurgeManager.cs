@@ -11,7 +11,7 @@ class SurgeManager
     private List<int> _powers;
     private Constant _default;
     private int _historyLength;
-    Random rand = new Random();
+    Random _rand = new Random();
 
     public SurgeManager(SurgeTable table, int historyLength)
     {
@@ -46,7 +46,7 @@ class SurgeManager
     public Surge GetSurgeFromList(List<Surge> surgesList)
     {
         if (surgesList.Count == 0) return _default;
-        Surge selectedSurge = surgesList[rand.Next(surgesList.Count)];
+        Surge selectedSurge = surgesList[_rand.Next(surgesList.Count)];
 
         if (_history.Contains(selectedSurge))
         {
